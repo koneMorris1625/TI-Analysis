@@ -1,4 +1,4 @@
-# [培训机构分析报告（TI Analysis）](https://apachecn.github.io/TI-Analysis/)
+# [培训机构分析报告（TI Analysis）](https://hoodiearon.github.io/TI-Analysis/)
 
 
 ## 前言
